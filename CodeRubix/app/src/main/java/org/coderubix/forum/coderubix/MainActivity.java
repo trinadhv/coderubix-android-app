@@ -66,6 +66,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    //TODO
+    /*
+
+    Change the color of the app header to match with the color of the selected discussion tag
+    Listen for the URL change in the webview and check for the name of tag.
+     */
+
 
 }
 

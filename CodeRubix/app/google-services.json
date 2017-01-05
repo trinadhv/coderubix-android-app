@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "648321929830",
+    "firebase_url": "https://coderubix-forum.firebaseio.com",
+    "project_id": "coderubix-forum",
+    "storage_bucket": "coderubix-forum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648321929830:android:08df6df49361e863",
+        "android_client_info": {
+          "package_name": "org.coderubix.forum.coderubix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648321929830-tbahiv5j9knsf6ksa04hufoeap7krr5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.coderubix.forum.coderubix",
+            "certificate_hash": "6B21EFBCB3C227D72F62B53642908ADC232AD9DF"
+          }
+        },
+        {
+          "client_id": "648321929830-j9l8hlss0pf7c7uphaiohg2t7kqv2uvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArHsCqT2ya3hzlMHMTpjikaq_alJlw0CE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648321929830-j9l8hlss0pf7c7uphaiohg2t7kqv2uvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
